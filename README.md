@@ -1,4 +1,4 @@
-# Pepsi's UI Library
+# Pepsi's UI Library (documentation)
 
 A powerful and customizable UI library for Roblox experiences.
 
